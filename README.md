@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Raisa
 
-## I'm a frontEnd Developer, and Mentor
+## I'm a FrontEnd Developer and Mentor
 
 - 🔭 I’m currently working on teaching and mentoring my students
 - 🌱 I’m currently learning Python
@@ -8,6 +8,6 @@
 - 😊 I love playing table tennis, playing the Guitar
 - 📫 How to reach me: raisa.abdraikyzy.kk@gmail.com
 
-### Connect with me:
+
 
 
