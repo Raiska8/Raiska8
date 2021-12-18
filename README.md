@@ -6,7 +6,7 @@
 - 👯 I love learning and love coding...
 - 😊 I love playing table tennis, playing the Guitar
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: raisa.abdraikyzy.kk@gmail.com
+
 
 
 
