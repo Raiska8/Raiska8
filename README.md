@@ -1,11 +1,12 @@
 ### Hi there 👋, I'm Raisa
 
-## I'm a Intern FrontEnd Developer 
+## I'm a Intern Front-end Developer 
 
-- 🔭 I’m currently studying at Jyldyz Academy
-- 👯 I love learning and love coding...
-- 😊 I love playing table tennis, playing the Guitar
-- 🌱 I’m currently learning JS
+- 🔭 I’m currently learning JS at Jyldyz Academy
+- Learning Software Engeneering at SetTech Bootcamp
+- 😊 My hobby is playing table tennis, playing the Guitar
+- - 👯 I love learning and love coding...
+
 
 
 
