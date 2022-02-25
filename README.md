@@ -3,7 +3,7 @@
 ## I'm an Intern Front-end Developer 
 
 - 🔭 I’m currently learning JS at Jyldyz Academy
-- 💻 Learning Software Engeneering at SeyTech Bootcamp
+- 💻 I study at SeyTech Bootcamp
 - 😊 My hobby is playing table tennis, I also enjoy playing guitar
 - 💥 love learning and love coding <>...</>
 
